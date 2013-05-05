@@ -2,3 +2,14 @@
 #wrapper{
 	height: 1000px;
 }
+
+h1{
+	font-size: 100px;
+	color: #32CD32;
+	font-family: Impact,sans-serif;
+	text-shadow: 0 4px 1px  #696969;
+}
+.title-line{
+	
+	
+}
