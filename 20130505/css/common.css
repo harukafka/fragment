@@ -10,3 +10,4 @@ h1{
 	text-shadow: 0 4px 1px  #696969;
 }
 .title-line { position: relative; display: block; margin: auto;}
+.title-line span{ position: relative; display: block; margin: 0 5px 0 5px;float:left;}
