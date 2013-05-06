@@ -9,7 +9,4 @@ h1{
 	font-family: Impact,sans-serif;
 	text-shadow: 0 4px 1px  #696969;
 }
-.title-line{
-	
-	
-}
+.title-line { position: relative; display: block; margin: auto;}
